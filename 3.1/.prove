@@ -1,0 +1,36 @@
+---
+generation: 2
+last_run_time: 1433296403.09193
+tests:
+  t/fast.t:
+    elapsed: 0.00212812423706055
+    gen: 2
+    last_pass_time: 1433296400.11361
+    last_result: 0
+    last_run_time: 1433296400.11361
+    last_todo: 0
+    mtime: 1433295085
+    seq: 5
+    total_passes: 2
+  t/medium.t:
+    elapsed: 8.0111780166626
+    gen: 2
+    last_pass_time: 1433296403.09113
+    last_result: 0
+    last_run_time: 1433296403.09113
+    last_todo: 0
+    mtime: 1433295275
+    seq: 6
+    total_passes: 2
+  t/slow.t:
+    elapsed: 6.00436615943909
+    gen: 2
+    last_pass_time: 1433296400.08873
+    last_result: 0
+    last_run_time: 1433296400.08873
+    last_todo: 0
+    mtime: 1433295588
+    seq: 4
+    total_passes: 2
+version: 1
+...

@@ -43,7 +43,7 @@ ok $object, 'got an object';
 $object = Sample->new( { foo => 'beep! ' } );
 ok $object, 'got an object';
 
-# Prints (no) output which we do not test,
+# Prints empty output which we do not test,
 # and a warning.
 $object->run();
 

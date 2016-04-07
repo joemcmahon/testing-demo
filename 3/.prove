@@ -1,28 +1,28 @@
 ---
-generation: 11
-last_run_time: 1433294833.12894
+generation: 28
+last_run_time: 1460064455.97823
 tests:
   t/always_passes.t:
-    elapsed: 0.0178999900817871
-    gen: 11
-    last_pass_time: 1433294833.12831
+    elapsed: 0.013070821762085
+    gen: 28
+    last_pass_time: 1460064455.97757
     last_result: 0
-    last_run_time: 1433294833.12831
+    last_run_time: 1460064455.97757
     last_todo: 0
-    mtime: 1433294524
-    seq: 22
-    total_passes: 11
+    mtime: 1460063030
+    seq: 47
+    total_passes: 20
   t/can_fail.t:
-    elapsed: 0.0176539421081543
-    gen: 11
-    last_fail_time: 1433294824.29294
-    last_pass_time: 1433294833.10655
+    elapsed: 0.011850118637085
+    gen: 28
+    last_fail_time: 1460064438.28154
+    last_pass_time: 1460064455.96075
     last_result: 0
-    last_run_time: 1433294833.10655
+    last_run_time: 1460064455.96075
     last_todo: 0
-    mtime: 1433294632
-    seq: 21
-    total_failures: 4
-    total_passes: 7
+    mtime: 1460063030
+    seq: 46
+    total_failures: 12
+    total_passes: 15
 version: 1
 ...

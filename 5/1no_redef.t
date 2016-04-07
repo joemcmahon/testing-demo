@@ -30,6 +30,7 @@ package main;
 
 {
     # Block warning for sub redefinition.
+		# Yes, we should use Sub::Install!
     no warnings 'redefine';
     *Sample::validate = sub {
         my($class, $ref) = @_;
